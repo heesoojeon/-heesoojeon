@@ -25,9 +25,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heesoojeon&theme=dracula)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heesoojeon&theme=dracula)
-
-
-ㅁㄴㅇㅁㄴㅇ
-ㅁㄴㅇㄹㄴㅇㄹ
-ㄴㅇㄹㄴㅇㄹ
-ㄴㅇㄹㄴㅇㄹ
+ ㅇㄹㄴㅇㄹㄴㅇㄹ
+ 
