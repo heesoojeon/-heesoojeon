@@ -26,12 +26,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heesoojeon&theme=dracula)
 
-asdasdasd
-
-asdasdas
+ㅁㄴㅇㅁㄴㅇ
 
 asdasd
 
-asdasd
-희수 힘내
  
