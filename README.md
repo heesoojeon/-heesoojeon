@@ -15,4 +15,5 @@ asdasd
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%B0%B8&width=435&lines=%EC%9E%91%EA%B0%80+%ED%94%84%EB%A1%9C%ED%95%84%EB%AA%85%EC%9D%80+%EC%B2%AD%ED%91%9C%EB%B2%94%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
  aaaaaa청표범
- <img src="https://img.shields.io/badge/python-#3776AB?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
