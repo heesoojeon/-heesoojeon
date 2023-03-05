@@ -38,3 +38,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%EC%A0%80%EB%8A%94+%EA%B3%A0%EB%A0%A4%EC%82%AC%EC%9D%B4%EB%B2%84%EB%8C%80+%EC%86%8C%ED%94%84%ED%8A%B8+%EC%9B%A8%EC%96%B4+%EA%B3%B5%ED%95%99%EA%B3%BC+%EC%9E%AC%ED%95%99%EC%A4%91%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%EC%A0%80%EB%8A%94+%ED%99%8D%EC%9D%B5%EB%8C%80%ED%95%99%EA%B5%90%EB%A5%BC+%EB%82%98%EC%99%94%EC%8A%B5%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
+
+오늘날 우리가 살고 있는 세상에서 소프트웨어적인 요소는 
+일상 곳곳에 스며들어 있습니다. 
